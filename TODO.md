@@ -6,3 +6,4 @@
 [ ] Style Menus
 	[ ] Main Menu
 	[ ] Host Menu
+[ ] Use Steam Username & Avatar in OptionsMenu
