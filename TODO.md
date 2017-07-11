@@ -4,4 +4,5 @@
 [ ] Load Characters based on an array, not hard-coded
 [ ] Make menus VR-Ready (Probably requires an alternative to OnClicked)
 [ ] Style Menus
-	[ ] Main menu
+	[ ] Main Menu
+	[ ] Host Menu
