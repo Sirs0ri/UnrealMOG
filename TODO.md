@@ -1,9 +1,7 @@
 # TODO
 
-[ ] Convert strings to localized texts
-[ ] Load Characters based on an array, not hard-coded
-[ ] Make menus VR-Ready (Probably requires an alternative to OnClicked)
-[ ] Style Menus
-	[ ] Main Menu
-	[ ] Host Menu
-[ ] Use Steam Username & Avatar in OptionsMenu
+See the [Issues page](https://github.com/Sirs0ri/UnrealMOG/issues)
+
+Additionally, optional:
+
+[ ] Use Steam Username & Avatar in OptionsMenu 
